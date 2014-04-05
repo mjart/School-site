@@ -1,3 +1,26 @@
-ol{list-style: "upper-alpha";}
-ul{list-style: "disc";}
-p{font-family: "Tahoma"; font-size: 12; text-align: center;}
+ol {
+    list-style:"upper-alpha";
+}
+ul {
+    list-style:"disc";
+}
+#paragraph1 {
+    font-family:"Tahoma";
+    font-size: 12;
+    text-align: center;
+}
+#list1 {
+    text-align:center;
+    color: green;
+}
+table,th,td {
+	
+	border: 1px solid black;
+	text-align: center;
+}
+table {
+	width: 50%;
+}
+th {
+	height: 50px
+}
