@@ -1,0 +1,444 @@
+<!DOCTYPE html>
+<!-- saved from url=(0048)http://website.ludgercollege.nl/pages/nieuws.php -->
+<html><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+
+<title>Ludger College -  Jouw talent is er thuis</title>
+<meta name="description" content="Jouw talent is er thuis">
+<meta name="keywords" content="school, doetinchem, middelbare">
+<link href="./Ludger College - Jouw talent is er thuis_files/styles.css" rel="stylesheet" type="text/css">
+<script src="./Ludger College - Jouw talent is er thuis_files/cb=gapi.loaded_1" async=""></script><script type="text/javascript" async="" src="./Ludger College - Jouw talent is er thuis_files/ga.js"></script><script src="./Ludger College - Jouw talent is er thuis_files/cb=gapi.loaded_0" async=""></script><script src="./Ludger College - Jouw talent is er thuis_files/jquery.min.js" type="text/javascript"></script><style type="text/css"></style><style type="text/css"></style>
+<script src="./Ludger College - Jouw talent is er thuis_files/jquery.hoverIntent.minified.js" type="text/javascript"></script>
+<script src="./Ludger College - Jouw talent is er thuis_files/jquery.dcmegamenu.1.3.2.js" type="text/javascript"></script>
+<script src="./Ludger College - Jouw talent is er thuis_files/jquery.desaturate.js" type="text/javascript"></script>
+
+<script type="text/javascript" src="./Ludger College - Jouw talent is er thuis_files/jquery.fancybox-1.3.4.js"></script>
+<link href="./Ludger College - Jouw talent is er thuis_files/orange.css" rel="stylesheet" type="text/css">
+<link rel="stylesheet" href="./Ludger College - Jouw talent is er thuis_files/jquery.fancybox-1.3.4.css" type="text/css" media="screen">
+
+<!-- GOOGLE FONT -->
+<link href="./Ludger College - Jouw talent is er thuis_files/css" rel="stylesheet" type="text/css">
+
+<!-- HUIDIGE PAGINA OPHALEN T.B.V. HYVES RESPECT -->
+<!-- INLADEN GOOGLE PLUS 1 LIBARY -->
+<script type="text/javascript" src="./Ludger College - Jouw talent is er thuis_files/plusone.js" gapi_processed="true">
+	{lang: 'nl'}
+</script>
+<script type="text/javascript">
+$(document).ready(function() {
+
+	$("a#single_image").fancybox();
+	
+	$("a.grouped_elements").fancybox();
+
+	
+	$("a.group").fancybox({
+		'transitionIn'	:	'elastic',
+		'transitionOut'	:	'elastic',
+		'speedIn'		:	600, 
+		'speedOut'		:	200, 
+		'overlayShow'	:	false
+	});
+	
+	$('img.des').each(function() {
+		initImage(this);
+	});	
+});
+</script>
+
+<script type="text/JavaScript">
+<!--
+function MM_openBrWindow(theURL,winName,features) { //v2.0
+  window.open(theURL,winName,features);
+}
+//-->
+</script><style type="text/css">.fb_hidden{position:absolute;top:-10000px;z-index:10001}.fb_invisible{display:none}.fb_reset{background:none;border:0;border-spacing:0;color:#000;cursor:auto;direction:ltr;font-family:"lucida grande", tahoma, verdana, arial, sans-serif;font-size:11px;font-style:normal;font-variant:normal;font-weight:normal;letter-spacing:normal;line-height:1;margin:0;overflow:visible;padding:0;text-align:left;text-decoration:none;text-indent:0;text-shadow:none;text-transform:none;visibility:visible;white-space:normal;word-spacing:normal}.fb_reset>div{overflow:hidden}.fb_link img{border:none}
+.fb_dialog{background:rgba(82, 82, 82, .7);position:absolute;top:-10000px;z-index:10001}.fb_reset .fb_dialog_legacy{overflow:visible}.fb_dialog_advanced{padding:10px;-moz-border-radius:8px;-webkit-border-radius:8px;border-radius:8px}.fb_dialog_content{background:#fff;color:#333}.fb_dialog_close_icon{background:url(http://static.ak.fbcdn.net/rsrc.php/v2/yq/r/IE9JII6Z1Ys.png) no-repeat scroll 0 0 transparent;_background-image:url(http://static.ak.fbcdn.net/rsrc.php/v2/yL/r/s816eWC-2sl.gif);cursor:pointer;display:block;height:15px;position:absolute;right:18px;top:17px;width:15px}.fb_dialog_mobile .fb_dialog_close_icon{top:5px;left:5px;right:auto}.fb_dialog_padding{background-color:transparent;position:absolute;width:1px;z-index:-1}.fb_dialog_close_icon:hover{background:url(http://static.ak.fbcdn.net/rsrc.php/v2/yq/r/IE9JII6Z1Ys.png) no-repeat scroll 0 -15px transparent;_background-image:url(http://static.ak.fbcdn.net/rsrc.php/v2/yL/r/s816eWC-2sl.gif)}.fb_dialog_close_icon:active{background:url(http://static.ak.fbcdn.net/rsrc.php/v2/yq/r/IE9JII6Z1Ys.png) no-repeat scroll 0 -30px transparent;_background-image:url(http://static.ak.fbcdn.net/rsrc.php/v2/yL/r/s816eWC-2sl.gif)}.fb_dialog_loader{background-color:#f2f2f2;border:1px solid #606060;font-size:24px;padding:20px}.fb_dialog_top_left,.fb_dialog_top_right,.fb_dialog_bottom_left,.fb_dialog_bottom_right{height:10px;width:10px;overflow:hidden;position:absolute}.fb_dialog_top_left{background:url(http://static.ak.fbcdn.net/rsrc.php/v2/ye/r/8YeTNIlTZjm.png) no-repeat 0 0;left:-10px;top:-10px}.fb_dialog_top_right{background:url(http://static.ak.fbcdn.net/rsrc.php/v2/ye/r/8YeTNIlTZjm.png) no-repeat 0 -10px;right:-10px;top:-10px}.fb_dialog_bottom_left{background:url(http://static.ak.fbcdn.net/rsrc.php/v2/ye/r/8YeTNIlTZjm.png) no-repeat 0 -20px;bottom:-10px;left:-10px}.fb_dialog_bottom_right{background:url(http://static.ak.fbcdn.net/rsrc.php/v2/ye/r/8YeTNIlTZjm.png) no-repeat 0 -30px;right:-10px;bottom:-10px}.fb_dialog_vert_left,.fb_dialog_vert_right,.fb_dialog_horiz_top,.fb_dialog_horiz_bottom{position:absolute;background:#525252;filter:alpha(opacity=70);opacity:.7}.fb_dialog_vert_left,.fb_dialog_vert_right{width:10px;height:100%}.fb_dialog_vert_left{margin-left:-10px}.fb_dialog_vert_right{right:0;margin-right:-10px}.fb_dialog_horiz_top,.fb_dialog_horiz_bottom{width:100%;height:10px}.fb_dialog_horiz_top{margin-top:-10px}.fb_dialog_horiz_bottom{bottom:0;margin-bottom:-10px}.fb_dialog_iframe{line-height:0}.fb_dialog_content .dialog_title{background:#6d84b4;border:1px solid #3b5998;color:#fff;font-size:14px;font-weight:bold;margin:0}.fb_dialog_content .dialog_title>span{background:url(http://static.ak.fbcdn.net/rsrc.php/v2/yd/r/Cou7n-nqK52.gif) no-repeat 5px 50%;float:left;padding:5px 0 7px 26px}body.fb_hidden{-webkit-transform:none;height:100%;margin:0;overflow:visible;position:absolute;top:-10000px;left:0;width:100%}.fb_dialog.fb_dialog_mobile.loading{background:url(http://static.ak.fbcdn.net/rsrc.php/v2/ya/r/3rhSv5V8j3o.gif) white no-repeat 50% 50%;min-height:100%;min-width:100%;overflow:hidden;position:absolute;top:0;z-index:10001}.fb_dialog.fb_dialog_mobile.loading.centered{max-height:590px;min-height:590px;max-width:500px;min-width:500px}#fb-root #fb_dialog_ipad_overlay{background:rgba(0, 0, 0, .45);position:absolute;left:0;top:0;width:100%;min-height:100%;z-index:10000}#fb-root #fb_dialog_ipad_overlay.hidden{display:none}.fb_dialog.fb_dialog_mobile.loading iframe{visibility:hidden}.fb_dialog_content .dialog_header{-webkit-box-shadow:white 0 1px 1px -1px inset;background:-webkit-gradient(linear, 0% 0%, 0% 100%, from(#738ABA), to(#2C4987));border-bottom:1px solid;border-color:#1d4088;color:#fff;font:14px Helvetica, sans-serif;font-weight:bold;text-overflow:ellipsis;text-shadow:rgba(0, 30, 84, .296875) 0 -1px 0;vertical-align:middle;white-space:nowrap}.fb_dialog_content .dialog_header table{-webkit-font-smoothing:subpixel-antialiased;height:43px;width:100%}.fb_dialog_content .dialog_header td.header_left{font-size:12px;padding-left:5px;vertical-align:middle;width:60px}.fb_dialog_content .dialog_header td.header_right{font-size:12px;padding-right:5px;vertical-align:middle;width:60px}.fb_dialog_content .touchable_button{background:-webkit-gradient(linear, 0% 0%, 0% 100%, from(#4966A6), color-stop(.5, #355492), to(#2A4887));border:1px solid #29447e;-webkit-background-clip:padding-box;-webkit-border-radius:3px;-webkit-box-shadow:rgba(0, 0, 0, .117188) 0 1px 1px inset, rgba(255, 255, 255, .167969) 0 1px 0;display:inline-block;margin-top:3px;max-width:85px;line-height:18px;padding:4px 12px;position:relative}.fb_dialog_content .dialog_header .touchable_button input{border:none;background:none;color:#fff;font:12px Helvetica, sans-serif;font-weight:bold;margin:2px -12px;padding:2px 6px 3px 6px;text-shadow:rgba(0, 30, 84, .296875) 0 -1px 0}.fb_dialog_content .dialog_header .header_center{color:#fff;font-size:16px;font-weight:bold;line-height:18px;text-align:center;vertical-align:middle}.fb_dialog_content .dialog_content{background:url(http://static.ak.fbcdn.net/rsrc.php/v2/y9/r/jKEcVPZFk-2.gif) no-repeat 50% 50%;border:1px solid #555;border-bottom:0;border-top:0;height:150px}.fb_dialog_content .dialog_footer{background:#f2f2f2;border:1px solid #555;border-top-color:#ccc;height:40px}#fb_dialog_loader_close{float:left}.fb_dialog.fb_dialog_mobile .fb_dialog_close_button{text-shadow:rgba(0, 30, 84, .296875) 0 -1px 0}.fb_dialog.fb_dialog_mobile .fb_dialog_close_icon{visibility:hidden}
+.fb_iframe_widget{display:inline-block;position:relative}.fb_iframe_widget span{display:inline-block;position:relative;text-align:justify}.fb_iframe_widget iframe{position:absolute}.fb_iframe_widget_lift{z-index:1}.fb_hide_iframes iframe{position:relative;left:-10000px}.fb_iframe_widget_loader{position:relative;display:inline-block}.fb_iframe_widget_fluid{display:inline}.fb_iframe_widget_fluid span{width:100%}.fb_iframe_widget_loader iframe{min-height:32px;z-index:2;zoom:1}.fb_iframe_widget_loader .FB_Loader{background:url(http://static.ak.fbcdn.net/rsrc.php/v2/y9/r/jKEcVPZFk-2.gif) no-repeat;height:32px;width:32px;margin-left:-16px;position:absolute;left:50%;z-index:4}
+.fb_connect_bar_container div,.fb_connect_bar_container span,.fb_connect_bar_container a,.fb_connect_bar_container img,.fb_connect_bar_container strong{background:none;border-spacing:0;border:0;direction:ltr;font-style:normal;font-variant:normal;letter-spacing:normal;line-height:1;margin:0;overflow:visible;padding:0;text-align:left;text-decoration:none;text-indent:0;text-shadow:none;text-transform:none;visibility:visible;white-space:normal;word-spacing:normal;vertical-align:baseline}.fb_connect_bar_container{position:fixed;left:0 !important;right:0 !important;height:42px !important;padding:0 25px !important;margin:0 !important;vertical-align:middle !important;border-bottom:1px solid #333 !important;background:#3b5998 !important;z-index:99999999 !important;overflow:hidden !important}.fb_connect_bar_container_ie6{position:absolute;top:expression(document.compatMode=="CSS1Compat"? document.documentElement.scrollTop+"px":body.scrollTop+"px")}.fb_connect_bar{position:relative;margin:auto;height:100%;width:100%;padding:6px 0 0 0 !important;background:none;color:#fff !important;font-family:"lucida grande", tahoma, verdana, arial, sans-serif !important;font-size:13px !important;font-style:normal !important;font-variant:normal !important;font-weight:normal !important;letter-spacing:normal !important;line-height:1 !important;text-decoration:none !important;text-indent:0 !important;text-shadow:none !important;text-transform:none !important;white-space:normal !important;word-spacing:normal !important}.fb_connect_bar a:hover{color:#fff}.fb_connect_bar .fb_profile img{height:30px;width:30px;vertical-align:middle;margin:0 6px 5px 0}.fb_connect_bar div a,.fb_connect_bar span,.fb_connect_bar span a{color:#bac6da;font-size:11px;text-decoration:none}.fb_connect_bar .fb_buttons{float:right;margin-top:7px}
+.fbpluginrecommendationsbarleft,.fbpluginrecommendationsbarright{position:fixed !important;bottom:0;z-index:999}.fbpluginrecommendationsbarleft{left:10px}.fbpluginrecommendationsbarright{right:10px}</style></head>
+
+<body data-twttr-rendered="true">
+<div id="container">
+	<div id="top">
+    	<div id="logo"><a href="http://website.ludgercollege.nl/index.php">
+	<img src="./Ludger College - Jouw talent is er thuis_files/ludgercollege_logo.gif" width="160" height="145" alt="Ludger College">
+</a>
+</div>
+        <div id="eyecatcher"><img src="./Ludger College - Jouw talent is er thuis_files/3.jpg" width="620" height="146"></div>
+        <div id="extern"><script type="text/javascript">
+$(document).ready(function(){
+	$('input[name=zoeken]').focus(function() {
+		$this = $(this);
+		if ($this.val() == "Zoeken") {
+			$this.val('');
+		}
+	});
+	$('input[name=zoeken]').focusout(function() {
+		$this = $(this);
+		if ($this.val() == "") {
+			$this.val("Zoeken");
+		}
+	}); 
+	// Minimaal aantal tekens voor het zoeken
+	var minimum_chars = 2;
+	$('.zoek_form').submit(function(event) {			
+		if($("input[name=zoeken]").val().length >= minimum_chars) {			
+			
+		} else {
+			event.preventDefault();
+			alert('Voor s.v.p. minimaal '+minimum_chars+' karakters in.')			
+		}
+	});				
+});
+</script>
+<div class="zoekbox">
+	<form name="zoek_form" method="post" action="http://website.ludgercollege.nl/zoeken/" class="zoek_form">
+		<input type="text" name="zoeken" value="Zoeken" class="zoeken">
+	</form>	
+</div>
+<div class="button_paars">
+	<a href="https://ludger.swp.nl/" target="_blank" class="wit">
+		Magister login
+	</a>
+</div>
+<div class="button_paars">
+	<a href="https://www.itslearning.com/index.aspx?customerid=469&username=&MustUseSsl=true" target="_blank" class="wit">
+		ELO: it's learning
+	</a>
+</div></div>
+    </div>
+    <div id="navigatie"><div class="orange">  
+<ul id="mega-menu" class="mega-menu" style="z-index:10000;">
+<li><a href="http://website.ludgercollege.nl/home/4/Home">Home</a></li><li><a href="http://website.ludgercollege.nl/nieuws/5/Nieuws">Nieuws</a></li><li class="dc-mega-li"><a href="http://website.ludgercollege.nl/pages/nieuws.php#" class="dc-mega">De school<span class="dc-mega-icon"></span></a><div class="sub-container mega" style="left: 0px; top: 34px; z-index: 1000;"><ul class="sub" style="display: none;"><div class="row" style="width: 966px;"><li class="mega-unit mega-hdr" style="height: 151px;"><a href="http://website.ludgercollege.nl/pages/nieuws.php#" class="mega-hdr-a" style="height: 16px;">Algemeen</a><ul><li><a href="http://website.ludgercollege.nl/listing/8/Algemene-gegevens">Algemene gegevens</a></li><li><a href="http://website.ludgercollege.nl/listing/131/Bestuur">Bestuur</a></li><li><a href="http://website.ludgercollege.nl/medewerkers">Wie is wie?</a></li><li><a href="http://website.ludgercollege.nl/listing/10/Contact">Contact</a></li></ul></li><li class="mega-unit mega-hdr" style="height: 151px;"><a href="http://website.ludgercollege.nl/pages/nieuws.php#" class="mega-hdr-a" style="height: 16px;">Visie en kwaliteit</a><ul><li><a href="http://website.ludgercollege.nl/listing/12/Onderwijskundige-visie">Onderwijskundige visie</a></li><li><a href="http://website.ludgercollege.nl/listing/13/Inspectierapport">Inspectierapport</a></li><li><a href="http://website.ludgercollege.nl/listing/26/Trouw-enqu%C3%AAte">Trouw-enquête</a></li><li><a href="http://website.ludgercollege.nl/listing/27/Tevredenheidsmetingen">Tevredenheidsmetingen</a></li><li><a href="http://website.ludgercollege.nl/listing/147/Kwaliteit-en-vergelijking">Kwaliteit en vergelijking</a></li></ul></li><li class="mega-unit mega-hdr" style="height: 151px;"><a href="http://website.ludgercollege.nl/pages/nieuws.php#" class="mega-hdr-a" style="height: 16px;">Tijden</a><ul><li><a href="http://website.ludgercollege.nl/listing/15/Lessentabellen">Lessentabellen</a></li><li><a href="http://website.ludgercollege.nl/listing/28/Schoolvakanties">Schoolvakanties</a></li></ul></li><li class="mega-unit mega-hdr" style="height: 151px;"><a href="http://website.ludgercollege.nl/pages/nieuws.php#" class="mega-hdr-a" style="height: 16px;">Financieel</a><ul><li><a href="http://website.ludgercollege.nl/listing/17/Financi%C3%ABle-zaken">Financiële zaken</a></li></ul></li><li class="mega-unit mega-hdr" style="height: 151px;"><a href="http://website.ludgercollege.nl/pages/nieuws.php#" class="mega-hdr-a" style="height: 16px;">Medezeggenschap</a><ul><li><a href="http://website.ludgercollege.nl/listing/31/Deelraad-medezeggenschap">Deelraad medezeggenschap</a></li></ul></li><li class="mega-unit mega-hdr last" style="height: 151px;"><a href="http://website.ludgercollege.nl/pages/nieuws.php#" class="mega-hdr-a" style="height: 16px;">Toelating/plaatsing</a><ul><li><a href="http://website.ludgercollege.nl/listing/139/Algemeen">Algemeen</a></li><li><a href="http://website.ludgercollege.nl/listing/140/Toelating-gymnasium">Toelating gymnasium</a></li><li><a href="http://website.ludgercollege.nl/listing/141/Van-4-mavo-naar-4-havo">Van 4 mavo naar 4 havo</a></li></ul></li></div></ul></div></li><li class="dc-mega-li"><a href="http://website.ludgercollege.nl/pages/nieuws.php#" class="dc-mega">Voor leerlingen<span class="dc-mega-icon"></span></a><div class="sub-container mega" style="left: 0px; top: 34px; z-index: 1000;"><ul class="sub" style="display: none;"><div class="row" style="width: 966px;"><li class="mega-unit mega-hdr" style="height: 174px;"><a href="http://website.ludgercollege.nl/pages/nieuws.php#" class="mega-hdr-a" style="height: 32px;">Algemeen</a><ul><li><a href="http://website.ludgercollege.nl/listing/33/Algemene-gegevens">Algemene gegevens</a></li><li><a href="http://website.ludgercollege.nl/medewerkers">Wie is wie?</a></li><li><a href="http://website.ludgercollege.nl/downloads/14/brieven-van-decanen">Bericht van de decanen</a></li></ul></li><li class="mega-unit mega-hdr" style="height: 174px;"><a href="http://website.ludgercollege.nl/pages/nieuws.php#" class="mega-hdr-a" style="height: 32px;">Tijden</a><ul><li><a href="http://website.ludgercollege.nl/listing/37/Lestijden">Lestijden</a></li><li><a href="http://website.ludgercollege.nl/listing/38/Lestijden-verkort-rooster">Lestijden verkort rooster</a></li><li><a href="http://website.ludgercollege.nl/listing/40/Lessentabellen">Lessentabellen</a></li><li><a href="http://website.ludgercollege.nl/listing/41/Schoolvakanties">Schoolvakanties</a></li></ul></li><li class="mega-unit mega-hdr" style="height: 174px;"><a href="http://website.ludgercollege.nl/pages/nieuws.php#" class="mega-hdr-a" style="height: 32px;">Foto's en verslagen</a><ul><li><a href="http://website.ludgercollege.nl/medewerkers">Foto's medewerkers</a></li><li><a href="http://website.ludgercollege.nl/fotoalbums/1/fotoalbums">Fotoalbums</a></li><li><a href="http://website.ludgercollege.nl/verslagen/35/reisverslagen">Reisverslagen</a></li><li><a href="http://website.ludgercollege.nl/verslagen/4/sportverslagen">Sportverslagen</a></li><li><a href="http://website.ludgercollege.nl/verslagen/20/bouwverslag">Bouwverslag</a></li></ul></li><li class="mega-unit mega-hdr" style="height: 174px;"><a href="http://website.ludgercollege.nl/pages/nieuws.php#" class="mega-hdr-a" style="height: 32px;">Meer dan school</a><ul><li><a href="http://website.ludgercollege.nl/listing/49/Slim-of-hoogbegaafd:-TOM">Slim of hoogbegaafd: TOM</a></li><li><a href="http://website.ludgercollege.nl/listing/50/Bruisend-B%C3%A8ta">Bruisend Bèta</a></li><li><a href="http://website.ludgercollege.nl/listing/51/Anglia">Anglia</a></li><li><a href="http://website.ludgercollege.nl/listing/52/Vooropleiding-conservatorium">Vooropleiding conservatorium</a></li></ul></li><li class="mega-unit mega-hdr" style="height: 174px;"><a href="http://website.ludgercollege.nl/pages/nieuws.php#" class="mega-hdr-a" style="height: 32px;">Leerlingen en school</a><ul><li><a href="http://website.ludgercollege.nl/listing/54/Deelraad-medezeggenschap">Deelraad medezeggenschap</a></li><li><a href="http://website.ludgercollege.nl/listing/55/Vertrouwenspersoon">Vertrouwenspersoon</a></li><li><a href="http://website.ludgercollege.nl/listing/56/Klachtencommissie">Klachtencommissie</a></li></ul></li><li class="mega-unit mega-hdr last" style="height: 174px;"><a href="http://website.ludgercollege.nl/pages/nieuws.php#" class="mega-hdr-a" style="height: 32px;">Overige</a><ul><li><a href="http://website.ludgercollege.nl/listing/127/Maatschappelijke-stage">Maatschappelijke stage</a></li><li><a href="http://website.ludgercollege.nl/listing/128/Site-English">Site English</a></li><li><a href="http://website.ludgercollege.nl/downloads/7/downloads">Downloads</a></li><li><a href="http://website.ludgercollege.nl/listing/136/Huiswerkbegeleiding">Huiswerkbegeleiding</a></li></ul></li></div></ul></div></li><li class="dc-mega-li"><a href="http://website.ludgercollege.nl/pages/nieuws.php#" class="dc-mega">Voor ouders<span class="dc-mega-icon"></span></a><div class="sub-container mega" style="left: 0px; top: 34px; z-index: 1000;"><ul class="sub" style="display: none;"><div class="row" style="width: 966px;"><li class="mega-unit mega-hdr" style="height: 204px;"><a href="http://website.ludgercollege.nl/pages/nieuws.php#" class="mega-hdr-a" style="height: 16px;">Algemeen</a><ul><li><a href="http://website.ludgercollege.nl/listing/60/Algemene-gegevens">Algemene gegevens</a></li><li><a href="http://website.ludgercollege.nl/medewerkers">Wie is wie?</a></li><li><a href="http://website.ludgercollege.nl/downloads/3/brieven-aan-ouders">Brieven aan ouders</a></li><li><a href="http://website.ludgercollege.nl/listing/63/Verzuim,-ziekmelding">Verzuim, ziekmelding</a></li><li><a href="http://website.ludgercollege.nl/downloads/14/brieven-van-decanen">Bericht van de decanen</a></li></ul></li><li class="mega-unit mega-hdr" style="height: 204px;"><a href="http://website.ludgercollege.nl/pages/nieuws.php#" class="mega-hdr-a" style="height: 16px;">Tijden</a><ul><li><a href="http://website.ludgercollege.nl/listing/65/Lestijden">Lestijden</a></li><li><a href="http://website.ludgercollege.nl/listing/66/Lestijden-verkort-rooster">Lestijden verkort rooster</a></li><li><a href="http://website.ludgercollege.nl/listing/68/Lesuitval">Lesuitval</a></li><li><a href="http://website.ludgercollege.nl/listing/69/Schoolvakanties">Schoolvakanties</a></li></ul></li><li class="mega-unit mega-hdr" style="height: 204px;"><a href="http://website.ludgercollege.nl/pages/nieuws.php#" class="mega-hdr-a" style="height: 16px;">Zorg voor uw kind</a><ul><li><a href="http://website.ludgercollege.nl/listing/72/Mentor-en-afdelingsleider">Mentor en afdelingsleider</a></li><li><a href="http://website.ludgercollege.nl/listing/73/Decanaat">Decanaat</a></li><li><a href="http://website.ludgercollege.nl/listing/74/Onderwijskundige-zorg">Onderwijskundige zorg</a></li><li><a href="http://website.ludgercollege.nl/listing/75/Sociaal-emotionele-zorg">Sociaal-emotionele zorg</a></li><li><a href="http://website.ludgercollege.nl/listing/133/Huiswerkbegeleiding">Huiswerkbegeleiding</a></li></ul></li><li class="mega-unit mega-hdr" style="height: 204px;"><a href="http://website.ludgercollege.nl/pages/nieuws.php#" class="mega-hdr-a" style="height: 16px;">Foto's en verslagen</a><ul><li><a href="http://website.ludgercollege.nl/medewerkers">Foto's medewerkers</a></li><li><a href="http://website.ludgercollege.nl/fotoalbums/1/fotoalbums/">Fotoalbums</a></li><li><a href="http://website.ludgercollege.nl/verslagen/35/reisverslagen/">Reisverslagen</a></li><li><a href="http://website.ludgercollege.nl/verslagen/4/sportverslagen">Sportverslagen</a></li><li><a href="http://website.ludgercollege.nl/verslagen/20/bouwverslag">Bouwverslag</a></li></ul></li><li class="mega-unit mega-hdr" style="height: 204px;"><a href="http://website.ludgercollege.nl/pages/nieuws.php#" class="mega-hdr-a" style="height: 16px;">Ouders en school</a><ul><li><a href="http://website.ludgercollege.nl/listing/121/Oudervereniging">Oudervereniging</a></li><li><a href="http://website.ludgercollege.nl/listing/81/Medezeggenschap">Medezeggenschap</a></li><li><a href="http://website.ludgercollege.nl/listing/82/Vertrouwenspersoon">Vertrouwenspersoon</a></li><li><a href="http://website.ludgercollege.nl/listing/83/Klachtencommissie">Klachtencommissie</a></li><li><a href="http://website.ludgercollege.nl/listing/149/Contact-oudervereniging">Contact oudervereniging</a></li><li><a href="http://website.ludgercollege.nl/listing/150/Contact-oudergeleding-deelraad-MR">Contact oudergeleding deelraad MR</a></li></ul></li><li class="mega-unit mega-hdr last" style="height: 204px;"><a href="http://website.ludgercollege.nl/pages/nieuws.php#" class="mega-hdr-a" style="height: 16px;">Overige</a><ul><li><a href="http://website.ludgercollege.nl/listing/85/Financi%C3%ABle-zaken">Financiële zaken</a></li><li><a href="http://website.ludgercollege.nl/listing/126/Maatschappelijke-stage">Maatschappelijke stage</a></li><li><a href="http://website.ludgercollege.nl/downloads/7/downloads">Downloads</a></li><li><a href="http://website.ludgercollege.nl/listing/151/Leerlingenstatuut">Leerlingenstatuut</a></li></ul></li></div></ul></div></li><li class="dc-mega-li"><a href="http://website.ludgercollege.nl/pages/nieuws.php#" class="dc-mega">Nieuw hier?<span class="dc-mega-icon"></span></a><div class="sub-container mega" style="left: 0px; top: 34px; z-index: 1000;"><ul class="sub" style="display: none;"><div class="row" style="width: 966px;"><li class="mega-unit mega-hdr" style="height: 250px;"><a href="http://website.ludgercollege.nl/pages/nieuws.php#" class="mega-hdr-a" style="height: 16px;">Waarom Ludger?</a><ul><li><a href="http://website.ludgercollege.nl/listing/88/Eerste-kennismaking">Eerste kennismaking</a></li><li><a href="http://website.ludgercollege.nl/listing/89/10-redenen">10 redenen</a></li><li><a href="http://website.ludgercollege.nl/listing/90/Tevredenheidsmetingen">Tevredenheidsmetingen</a></li><li><a href="http://website.ludgercollege.nl/listing/91/Overzicht-inspectierapport">Overzicht inspectierapport</a></li><li><a href="http://website.ludgercollege.nl/listing/92/Trouw-enqu%C3%AAte">Trouw-enquête</a></li><li><a href="http://website.ludgercollege.nl/listing/93/Algemene-gegevens">Algemene gegevens</a></li><li><a href="http://website.ludgercollege.nl/listing/120/Inspectierapport">Inspectierapport</a></li></ul></li><li class="mega-unit mega-hdr" style="height: 250px;"><a href="http://website.ludgercollege.nl/pages/nieuws.php#" class="mega-hdr-a" style="height: 16px;">Onderwijs vakwerk!</a><ul><li><a href="http://website.ludgercollege.nl/listing/95/Rijk-aanbod">Rijk aanbod</a></li><li><a href="http://website.ludgercollege.nl/listing/96/Z-uren">Z-uren</a></li><li><a href="http://website.ludgercollege.nl/listing/97/De-Bovenkamer">De Bovenkamer</a></li><li><a href="http://website.ludgercollege.nl/listing/98/Onderwijskundige-visie">Onderwijskundige visie</a></li><li><a href="http://website.ludgercollege.nl/listing/99/Het-gymnasium-op-het-Ludger">Het gymnasium op het Ludger</a></li><li><a href="http://website.ludgercollege.nl/listing/100/Slim-of-hoogbegaafd:-TOM">Slim of hoogbegaafd: TOM</a></li><li><a href="http://website.ludgercollege.nl/listing/101/Bruisend-B%C3%A8ta">Bruisend Bèta</a></li><li><a href="http://website.ludgercollege.nl/listing/102/Anglia">Anglia</a></li></ul></li><li class="mega-unit mega-hdr" style="height: 250px;"><a href="http://website.ludgercollege.nl/pages/nieuws.php#" class="mega-hdr-a" style="height: 16px;">Méér dan lessen</a><ul><li><a href="http://website.ludgercollege.nl/listing/104/Theater">Theater</a></li><li><a href="http://website.ludgercollege.nl/listing/105/Vooropleiding-conservatorium">Vooropleiding conservatorium</a></li><li><a href="http://website.ludgercollege.nl/listing/106/Reizen">Reizen</a></li><li><a href="http://website.ludgercollege.nl/listing/107/Sport-op-school">Sport op school</a></li></ul></li><li class="mega-unit mega-hdr" style="height: 250px;"><a href="http://website.ludgercollege.nl/pages/nieuws.php#" class="mega-hdr-a" style="height: 16px;">Zorg voor uw kind</a><ul><li><a href="http://website.ludgercollege.nl/listing/109/Contacten-op-een-rij">Contacten op een rij</a></li><li><a href="http://website.ludgercollege.nl/listing/110/Mentor-en-afdelingsleider">Mentor en afdelingsleider</a></li><li><a href="http://website.ludgercollege.nl/listing/111/Decanaat">Decanaat</a></li><li><a href="http://website.ludgercollege.nl/listing/112/Onderwijskundige-zorg">Onderwijskundige zorg</a></li><li><a href="http://website.ludgercollege.nl/listing/113/Sociaal-emotionele-zorg">Sociaal-emotionele zorg</a></li><li><a href="http://website.ludgercollege.nl/listing/135/Huiswerkbegeleiding">Huiswerkbegeleiding</a></li></ul></li><li class="mega-unit mega-hdr" style="height: 250px;"><a href="http://website.ludgercollege.nl/pages/nieuws.php#" class="mega-hdr-a" style="height: 16px;">Toelating/plaatsing</a><ul><li><a href="http://website.ludgercollege.nl/listing/115/Algemeen">Algemeen</a></li><li><a href="http://website.ludgercollege.nl/listing/116/Toelating-gymnasium">Toelating gymnasium</a></li><li><a href="http://website.ludgercollege.nl/listing/137/Van-4-mavo-naar-4-havo">Van 4 mavo naar 4 havo</a></li><li><a href="http://website.ludgercollege.nl/listing/148/Van-5-havo-naar-5-vwo">Van 5 havo naar 5 vwo</a></li></ul></li><li class="mega-unit mega-hdr last" style="height: 250px;"><a href="http://website.ludgercollege.nl/pages/nieuws.php#" class="mega-hdr-a" style="height: 16px;">Overige</a><ul><li><a href="http://website.ludgercollege.nl/listing/118/Financi%C3%ABle-zaken">Financiële zaken</a></li><li><a href="http://website.ludgercollege.nl/downloads/7/downloads">Downloads</a></li></ul></li></div></ul></div></li></ul>
+</div>
+
+<script type="text/javascript">
+	$('#mega-menu').dcMegaMenu({
+		rowItems: '6',
+		speed: 'fast',
+		effect: 'fade'
+	});
+</script>
+<!--
+<a href="#" class="wit">Home</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Nieuws&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Deschool&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Voorleerlingen&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Voorouders&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Groep8'ers
+--></div>
+	<div id="main">
+    	<div id="left"><div class="hoofdbanner">
+School voor<br>
+mavo, havo,<br>
+atheneum &amp;<br>
+gymnasium
+</div>
+
+	<div class="banner">
+	    <a target="_blank" href="http://website.ludgercollege.nl/detail/125/916/Diversen/Open%20Dag%202013" class="wit">
+	    		    	Open Dag 2014<br>
+	    		    		<span class="klein"> Alle info &amp; foto's</span>
+	    		    </a>
+	</div>
+		<div class="sub_banner">
+	    <a target="_blank" href="http://website.ludgercollege.nl/detail/125/879/Diversen/Gymnasium%20op%20het%20Ludger" class="oranje">
+	    		    	Gymnasium<br>
+	    		    		<span class="klein">op het Ludger</span>
+	    		    </a>
+	</div>
+		<div class="sub_banner">
+	    <a target="_blank" href="http://website.ludgercollege.nl/detail/125/878/Diversen/Anglia%20op%20Ludger" class="oranje">
+	    		    	Anglia<br>
+	    		    		<span class="klein">op het Ludger</span>
+	    		    </a>
+	</div>
+		<div class="sub_banner">
+	    <a target="_blank" href="http://website.ludgercollege.nl/detail/125/1005/Diversen/Examen%202013-2014" class="oranje">
+	    		    	Examen 2014<br>
+	    		    		<span class="klein">alle info</span>
+	    		    </a>
+	</div>
+		<div class="sub_banner">
+	    <a target="_blank" href="http://website.ludgercollege.nl/detail/125/1001/Diversen/Op%20Stage" class="oranje">
+	    		    	Op Stage<br>
+	    		    		<span class="klein">2 mavo</span>
+	    		    </a>
+	</div>
+		<div class="sub_banner">
+	    <a target="_blank" href="http://website.ludgercollege.nl/downloads/14/brieven-van-decanen/" class="oranje">
+	    		    	Bericht<br>
+	    		    		<span class="klein">van de decanen</span>
+	    		    </a>
+	</div>
+		<div class="sub_banner">
+	    <a target="_blank" href="http://www.breinbaas.nu/" class="oranje">
+	    		    	Breinbaas<br>
+	    		    </a>
+	</div>
+		<div class="sub_banner">
+	    <a target="_blank" href="http://www.mas-achterhoek.nl/" class="oranje">
+	    		    	MaS Achterhoek<br>
+	    		    </a>
+	</div>
+	<!--
+<a href="http://www.facebook.com/pages/St-Ludger-College/106375229400389" target="_blank"><img src="http://website.ludgercollege.nl/images/wordt_fan_van_het_ludger_college_op_facebook.gif" width="140" height="80" alt="Word fan van het Ludger College op Facebook" /></a>
+<a href="http://twitter.com/#!/ludgercollege" target="_blank"><img src="http://website.ludgercollege.nl/images/volg_ons_op_twitter.gif" width="140" height="80" alt="Volg ons op Twitter" /></a>
+--></div>
+    	<div id="content">
+			<div id="kruimelpad"><a href="http://website.ludgercollege.nl/">Ludger College</a> › Nieuws</div>
+				<script>
+    $(document).ready(function () {
+        $('img.des').unbind('mouseout');
+        $('img.des').unbind('mouseover');
+        $('canvas.des').unbind('mouseout');
+        $('canvas.des').unbind('mouseover');
+        $(".bloktekstopmaak").mouseenter(function (e) {
+            $('canvas.des').unbind('mouseout');
+            $('canvas.des').unbind('mouseover');
+            $(this).find('.overlay').removeClass("trans");
+            $(this).find('.bloktekst').addClass("bloktekstopmaakHover");
+            $(this).find('canvas.des').hide();
+            $(this).find('img.des').show();
+        });
+        $(".bloktekstopmaak").mouseleave(function (e) {
+            $('canvas.des').unbind('mouseout');
+            $('canvas.des').unbind('mouseover');
+            $(this).find('.overlay').addClass("trans");
+            $(this).find('.bloktekst').removeClass("bloktekstopmaakHover");
+            $(this).find('canvas.des').show();
+            $(this).find('img.des').hide();
+        });
+    });
+</script>
+    <h1>In Memoriam</h1>
+    <div class="text">In Memoriam: Berber van der Meer. Klik <a href="http://website.ludgercollege.nl/detail/125/1077/Diversen/Berber%20van%20der%20Meer" target="_blank"><strong>hier</strong></a>.</div>
+    <br><br>
+    <div id="blokken">
+                    <div class="blok blok_groot bloktekstopmaak noMargin">
+                <a href="http://website.ludgercollege.nl/detail/125/1083/Diversen/Ellendige%20Avonturen" target="_blank">
+                    <div class="overlay" style="width:600px;"></div>
+                    <div class="bloktekst bloktekstopmaakHover"></div>
+                    <canvas style="display: none; width: 600px; height: 180px;" class="des pair_1 js-desaturate-fixed" width="600" height="180"></canvas><img class="des pair_1 color" src="./Ludger College - Jouw talent is er thuis_files/thumb.php" height="180" width="600" alt="" title="" id="" style="display: inline;">
+                </a>
+            </div>
+            </div>
+<div class="clear"></div>
+<hr>
+        <div class="text">
+            <a id="single_image" href="http://website.ludgercollege.nl/wms/tools/thumb.php?src=../fm/userfiles/content/eyecatcher/9984D307-721B-08EC-501F-E7162C79D7F8.jpg&maxw=700&maxh=500"><img alt="DAFF 2014" title="DAFF 2014" class="eyecatcher" src="./Ludger College - Jouw talent is er thuis_files/thumb(1).php"></a>            <h2>DAFF 2014</h2>
+            <h3>Ludger valt opnieuw in de prijzen!</h3>            Zaterdag 29 maart vond voor de tweede keer het DRU Achterhoeks Film Festival &nbsp;(DAFF) voor scho-lieren plaats. Dertien Achterhoekse scholen waren in Ulft vertegen-woordigd en er werden zo’n 70 films vertoond in drie zalen.            <div style="clear:both;"></div>
+            <div class="berichtfooter">
+                <div class="socialmedia">
+                    <!-- HYVES, FACEBOOK, TWITTER EN GOOGLE+1 -->
+<table>
+  <tbody><tr>
+    <td style="vertical-align:top;">
+    	<div id="fb-root" class=" fb_reset"><div style="position: absolute; top: -10000px; height: 0px; width: 0px;"><div><iframe name="fc99adc14" frameborder="0" allowtransparency="true" scrolling="no" src="./Ludger College - Jouw talent is er thuis_files/ping.htm" style="display: none;"></iframe></div></div><div style="position: absolute; top: -10000px; height: 0px; width: 0px;"><div><iframe name="fb_xdm_frame_http" frameborder="0" allowtransparency="true" scrolling="no" id="fb_xdm_frame_http" aria-hidden="true" title="Facebook Cross Domain Communication Frame" tab-index="-1" src="./Ludger College - Jouw talent is er thuis_files/wTH8U0osOYl.htm" style="border: none;"></iframe><iframe name="fb_xdm_frame_https" frameborder="0" allowtransparency="true" scrolling="no" id="fb_xdm_frame_https" aria-hidden="true" title="Facebook Cross Domain Communication Frame" tab-index="-1" src="./Ludger College - Jouw talent is er thuis_files/wTH8U0osOYl(1).htm" style="border: none;"></iframe></div></div></div>
+    	<script src="./Ludger College - Jouw talent is er thuis_files/all.js"></script>
+    	<fb:like href="" send="false" layout="button_count" width="100" show_faces="true" font="trebuchet ms" class=" fb_iframe_widget" fb-xfbml-state="rendered" fb-iframe-plugin-query="app_id=192993194081170&amp;font=trebuchet%20ms&amp;href=http%3A%2F%2Fwebsite.ludgercollege.nl%2Fpages%2Fnieuws.php&amp;layout=button_count&amp;locale=en_US&amp;sdk=joey&amp;send=false&amp;show_faces=true&amp;width=100"><span style="vertical-align: bottom; width: 80px; height: 20px;"><iframe name="f26d6535cc" width="100px" height="1000px" frameborder="0" allowtransparency="true" scrolling="no" title="fb:like Facebook Social Plugin" src="./Ludger College - Jouw talent is er thuis_files/like(2).htm" class="" style="border: none; visibility: visible; width: 80px; height: 20px;"></iframe></span></fb:like>
+    </td>    
+    <td style="vertical-align:top;">
+    	<script type="text/javascript" src="./Ludger College - Jouw talent is er thuis_files/widgets.js"></script>
+    	<iframe id="twitter-widget-0" scrolling="no" frameborder="0" allowtransparency="true" src="./Ludger College - Jouw talent is er thuis_files/tweet_button.1395870373.htm" class="twitter-share-button twitter-tweet-button twitter-count-horizontal" title="Twitter Tweet Button" data-twttr-rendered="true" style="width: 110px; height: 20px;"></iframe></td>
+    <td style="text-align:right;">
+	    <!--  de Google +1-knop -->
+	    <div id="___plusone_0" style="text-indent: 0px; margin: 0px; padding: 0px; background-color: transparent; border-style: none; float: none; line-height: normal; font-size: 1px; vertical-align: baseline; display: inline-block; width: 90px; height: 20px; background-position: initial initial; background-repeat: initial initial;"><iframe frameborder="0" hspace="0" marginheight="0" marginwidth="0" scrolling="no" style="position: static; top: 0px; width: 90px; margin: 0px; border-style: none; left: 0px; visibility: visible; height: 20px;" tabindex="0" vspace="0" width="100%" id="I0_1396732783455" name="I0_1396732783455" src="./Ludger College - Jouw talent is er thuis_files/fastbutton.htm" data-gapiattached="true" title="+1"></iframe></div>
+    </td>
+  </tr>
+</tbody></table>                </div>
+                                <div class="leesmeer">
+                    <a href="http://website.ludgercollege.nl/detail/5/1086/Nieuws/DAFF-2014" class="wit">
+                        Lees meer
+                    </a>
+                </div>
+                            </div>
+            <hr>
+        </div>
+            <div class="text">
+            <a id="single_image" href="http://website.ludgercollege.nl/wms/tools/thumb.php?src=../fm/userfiles/content/eyecatcher/50E6F282-E421-CD4B-5BEF-00F4A1B8D1AD.jpg&maxw=700&maxh=500"><img alt="Symposium filosofie" title="Symposium filosofie" class="eyecatcher2" src="./Ludger College - Jouw talent is er thuis_files/thumb(2).php"></a>            <h2>Symposium filosofie</h2>
+            <h3>5V bevraagt wetenschappers.</h3>            Het is weinigen gegeven en als je het al meemaakt dan is het hooguit één keer in je leven. Drie hoogleraren binnen handbereik. Geleerde heren met hoofden vol kennis, die vanuit hun eigen discipline alle vragen willen beantwoorden die je maar kunt bedenken.            <div style="clear:both;"></div>
+            <div class="berichtfooter">
+                <div class="socialmedia">
+                    <!-- HYVES, FACEBOOK, TWITTER EN GOOGLE+1 -->
+<table>
+  <tbody><tr>
+    <td style="vertical-align:top;">
+    	<div id="fb-root"></div>
+    	<script src="./Ludger College - Jouw talent is er thuis_files/all.js"></script>
+    	<fb:like href="" send="false" layout="button_count" width="100" show_faces="true" font="trebuchet ms" class=" fb_iframe_widget" fb-xfbml-state="rendered" fb-iframe-plugin-query="app_id=192993194081170&amp;font=trebuchet%20ms&amp;href=http%3A%2F%2Fwebsite.ludgercollege.nl%2Fpages%2Fnieuws.php&amp;layout=button_count&amp;locale=en_US&amp;sdk=joey&amp;send=false&amp;show_faces=true&amp;width=100"><span style="vertical-align: bottom; width: 80px; height: 20px;"><iframe name="f3007d1a1" width="100px" height="1000px" frameborder="0" allowtransparency="true" scrolling="no" title="fb:like Facebook Social Plugin" src="./Ludger College - Jouw talent is er thuis_files/like(3).htm" class="" style="border: none; visibility: visible; width: 80px; height: 20px;"></iframe></span></fb:like>
+    </td>    
+    <td style="vertical-align:top;">
+    	<script type="text/javascript" src="./Ludger College - Jouw talent is er thuis_files/widgets.js"></script>
+    	<iframe id="twitter-widget-1" scrolling="no" frameborder="0" allowtransparency="true" src="./Ludger College - Jouw talent is er thuis_files/tweet_button.1395870373(1).htm" class="twitter-share-button twitter-tweet-button twitter-count-horizontal" title="Twitter Tweet Button" data-twttr-rendered="true" style="width: 110px; height: 20px;"></iframe></td>
+    <td style="text-align:right;">
+	    <!--  de Google +1-knop -->
+	    <div id="___plusone_1" style="text-indent: 0px; margin: 0px; padding: 0px; background-color: transparent; border-style: none; float: none; line-height: normal; font-size: 1px; vertical-align: baseline; display: inline-block; width: 90px; height: 20px; background-position: initial initial; background-repeat: initial initial;"><iframe frameborder="0" hspace="0" marginheight="0" marginwidth="0" scrolling="no" style="position: static; top: 0px; width: 90px; margin: 0px; border-style: none; left: 0px; visibility: visible; height: 20px;" tabindex="0" vspace="0" width="100%" id="I1_1396732783462" name="I1_1396732783462" src="./Ludger College - Jouw talent is er thuis_files/fastbutton(1).htm" data-gapiattached="true" title="+1"></iframe></div>
+    </td>
+  </tr>
+</tbody></table>                </div>
+                                <div class="leesmeer">
+                    <a href="http://website.ludgercollege.nl/detail/5/1084/Nieuws/Symposium-filosofie" class="wit">
+                        Lees meer
+                    </a>
+                </div>
+                            </div>
+            <hr>
+        </div>
+            <div class="text">
+            <a id="single_image" href="http://website.ludgercollege.nl/wms/tools/thumb.php?src=../fm/userfiles/content/eyecatcher/8B42AF0E-0672-98DE-B905-79507A668BB7.jpg&maxw=700&maxh=500"><img alt="Biologie Olympiade 2014" title="Biologie Olympiade 2014" class="eyecatcher2" src="./Ludger College - Jouw talent is er thuis_files/thumb(3).php"></a>            <h2>Biologie Olympiade 2014</h2>
+            <h3>Biologie Beestachtig Boeiend</h3>            In maart deden 36 Ludgerleerlingen mee aan de Nationale Biologie Olympiade. Deze Olympiade omvat twee wedstrijden, één voor de hoogste klassen (NBO) en één voor de onderbouw (BOJ). Dit jaar waren er landelijk respectievelijk 9.300 en 10.000 deelnemers.            <div style="clear:both;"></div>
+            <div class="berichtfooter">
+                <div class="socialmedia">
+                    <!-- HYVES, FACEBOOK, TWITTER EN GOOGLE+1 -->
+<table>
+  <tbody><tr>
+    <td style="vertical-align:top;">
+    	<div id="fb-root"></div>
+    	<script src="./Ludger College - Jouw talent is er thuis_files/all.js"></script>
+    	<fb:like href="" send="false" layout="button_count" width="100" show_faces="true" font="trebuchet ms" class=" fb_iframe_widget" fb-xfbml-state="rendered" fb-iframe-plugin-query="app_id=192993194081170&amp;font=trebuchet%20ms&amp;href=http%3A%2F%2Fwebsite.ludgercollege.nl%2Fpages%2Fnieuws.php&amp;layout=button_count&amp;locale=en_US&amp;sdk=joey&amp;send=false&amp;show_faces=true&amp;width=100"><span style="vertical-align: bottom; width: 80px; height: 20px;"><iframe name="f294e593a" width="100px" height="1000px" frameborder="0" allowtransparency="true" scrolling="no" title="fb:like Facebook Social Plugin" src="./Ludger College - Jouw talent is er thuis_files/like(1).htm" class="" style="border: none; visibility: visible; width: 80px; height: 20px;"></iframe></span></fb:like>
+    </td>    
+    <td style="vertical-align:top;">
+    	<script type="text/javascript" src="./Ludger College - Jouw talent is er thuis_files/widgets.js"></script>
+    	<iframe id="twitter-widget-2" scrolling="no" frameborder="0" allowtransparency="true" src="./Ludger College - Jouw talent is er thuis_files/tweet_button.1395870373(2).htm" class="twitter-share-button twitter-tweet-button twitter-count-horizontal" title="Twitter Tweet Button" data-twttr-rendered="true" style="width: 110px; height: 20px;"></iframe></td>
+    <td style="text-align:right;">
+	    <!--  de Google +1-knop -->
+	    <div id="___plusone_2" style="text-indent: 0px; margin: 0px; padding: 0px; background-color: transparent; border-style: none; float: none; line-height: normal; font-size: 1px; vertical-align: baseline; display: inline-block; width: 90px; height: 20px; background-position: initial initial; background-repeat: initial initial;"><iframe frameborder="0" hspace="0" marginheight="0" marginwidth="0" scrolling="no" style="position: static; top: 0px; width: 90px; margin: 0px; border-style: none; left: 0px; visibility: visible; height: 20px;" tabindex="0" vspace="0" width="100%" id="I2_1396732783465" name="I2_1396732783465" src="./Ludger College - Jouw talent is er thuis_files/fastbutton(2).htm" data-gapiattached="true" title="+1"></iframe></div>
+    </td>
+  </tr>
+</tbody></table>                </div>
+                                <div class="leesmeer">
+                    <a href="http://website.ludgercollege.nl/detail/5/1085/Nieuws/Biologie-Olympiade-2014" class="wit">
+                        Lees meer
+                    </a>
+                </div>
+                            </div>
+            <hr>
+        </div>
+            <div class="text">
+            <a id="single_image" href="http://website.ludgercollege.nl/wms/tools/thumb.php?src=../fm/userfiles/content/eyecatcher/A1B91B3B-9553-6751-3CD9-8628AF06123B.jpg&maxw=700&maxh=500"><img alt="Jonge Loten 2014" title="Jonge Loten 2014" class="eyecatcher2" src="./Ludger College - Jouw talent is er thuis_files/thumb(4).php"></a>            <h2>Jonge Loten 2014</h2>
+            <h3>De ereprijs speelt.</h3>            Afgelopen vrijdag speelde <em>de ereprijs</em> veertien gloednieuwe composities van eindexamen-leerlingen havo en vwo. Dat gebeurde in de aula van het hoofdgebouw onder de warme belangstelling van ouders, familie, vrienden en Ludgermedewerkers.            <div style="clear:both;"></div>
+            <div class="berichtfooter">
+                <div class="socialmedia">
+                    <!-- HYVES, FACEBOOK, TWITTER EN GOOGLE+1 -->
+<table>
+  <tbody><tr>
+    <td style="vertical-align:top;">
+    	<div id="fb-root"></div>
+    	<script src="./Ludger College - Jouw talent is er thuis_files/all.js"></script>
+    	<fb:like href="" send="false" layout="button_count" width="100" show_faces="true" font="trebuchet ms" class=" fb_iframe_widget" fb-xfbml-state="rendered" fb-iframe-plugin-query="app_id=192993194081170&amp;font=trebuchet%20ms&amp;href=http%3A%2F%2Fwebsite.ludgercollege.nl%2Fpages%2Fnieuws.php&amp;layout=button_count&amp;locale=en_US&amp;sdk=joey&amp;send=false&amp;show_faces=true&amp;width=100"><span style="vertical-align: bottom; width: 80px; height: 20px;"><iframe name="f2c26b6ce" width="100px" height="1000px" frameborder="0" allowtransparency="true" scrolling="no" title="fb:like Facebook Social Plugin" src="./Ludger College - Jouw talent is er thuis_files/like.htm" class="" style="border: none; visibility: visible; width: 80px; height: 20px;"></iframe></span></fb:like>
+    </td>    
+    <td style="vertical-align:top;">
+    	<script type="text/javascript" src="./Ludger College - Jouw talent is er thuis_files/widgets.js"></script>
+    	<iframe id="twitter-widget-3" scrolling="no" frameborder="0" allowtransparency="true" src="./Ludger College - Jouw talent is er thuis_files/tweet_button.1395870373(3).htm" class="twitter-share-button twitter-tweet-button twitter-count-horizontal" title="Twitter Tweet Button" data-twttr-rendered="true" style="width: 110px; height: 20px;"></iframe></td>
+    <td style="text-align:right;">
+	    <!--  de Google +1-knop -->
+	    <div id="___plusone_3" style="text-indent: 0px; margin: 0px; padding: 0px; background-color: transparent; border-style: none; float: none; line-height: normal; font-size: 1px; vertical-align: baseline; display: inline-block; width: 90px; height: 20px; background-position: initial initial; background-repeat: initial initial;"><iframe frameborder="0" hspace="0" marginheight="0" marginwidth="0" scrolling="no" style="position: static; top: 0px; width: 90px; margin: 0px; border-style: none; left: 0px; visibility: visible; height: 20px;" tabindex="0" vspace="0" width="100%" id="I3_1396732783469" name="I3_1396732783469" src="./Ludger College - Jouw talent is er thuis_files/fastbutton(3).htm" data-gapiattached="true" title="+1"></iframe></div>
+    </td>
+  </tr>
+</tbody></table>                </div>
+                                <div class="leesmeer">
+                    <a href="http://website.ludgercollege.nl/detail/5/1080/Nieuws/Jonge-Loten-2014" class="wit">
+                        Lees meer
+                    </a>
+                </div>
+                            </div>
+            <hr>
+        </div>
+            <div class="text">
+            <a id="single_image" href="http://website.ludgercollege.nl/wms/tools/thumb.php?src=../fm/userfiles/content/eyecatcher/B53F16A4-2757-5AB2-EFAC-93B15B5E4A00.jpg&maxw=700&maxh=500"><img alt="Parlons Pub" title="Parlons Pub" class="eyecatcher2" src="./Ludger College - Jouw talent is er thuis_files/thumb(5).php"></a>            <h2>Parlons Pub</h2>
+            <h3>Eerste klas wint tweede prijs.</h3>            Ook dit jaar deed het Ludger College mee aan het landelijke <em>Concours interscolaire</em>. Deze editie van de wedstrijd&nbsp;had als thema 'Parlons Pub' en stond geheel&nbsp;in het teken van de reclame. <br>Opdracht was om een Franstalige reclamespotje of affiche te maken voor bestaande of verzonnen Franse producten.            <div style="clear:both;"></div>
+            <div class="berichtfooter">
+                <div class="socialmedia">
+                    <!-- HYVES, FACEBOOK, TWITTER EN GOOGLE+1 -->
+<table>
+  <tbody><tr>
+    <td style="vertical-align:top;">
+    	<div id="fb-root"></div>
+    	<script src="./Ludger College - Jouw talent is er thuis_files/all.js"></script>
+    	<fb:like href="" send="false" layout="button_count" width="100" show_faces="true" font="trebuchet ms" class=" fb_iframe_widget" fb-xfbml-state="rendered" fb-iframe-plugin-query="app_id=192993194081170&amp;font=trebuchet%20ms&amp;href=http%3A%2F%2Fwebsite.ludgercollege.nl%2Fpages%2Fnieuws.php&amp;layout=button_count&amp;locale=en_US&amp;sdk=joey&amp;send=false&amp;show_faces=true&amp;width=100"><span style="vertical-align: bottom; width: 80px; height: 20px;"><iframe name="f1e51b3508" width="100px" height="1000px" frameborder="0" allowtransparency="true" scrolling="no" title="fb:like Facebook Social Plugin" src="./Ludger College - Jouw talent is er thuis_files/like(4).htm" class="" style="border: none; visibility: visible; width: 80px; height: 20px;"></iframe></span></fb:like>
+    </td>    
+    <td style="vertical-align:top;">
+    	<script type="text/javascript" src="./Ludger College - Jouw talent is er thuis_files/widgets.js"></script>
+    	<iframe id="twitter-widget-4" scrolling="no" frameborder="0" allowtransparency="true" src="./Ludger College - Jouw talent is er thuis_files/tweet_button.1395870373(4).htm" class="twitter-share-button twitter-tweet-button twitter-count-horizontal" title="Twitter Tweet Button" data-twttr-rendered="true" style="width: 110px; height: 20px;"></iframe></td>
+    <td style="text-align:right;">
+	    <!--  de Google +1-knop -->
+	    <div id="___plusone_4" style="text-indent: 0px; margin: 0px; padding: 0px; background-color: transparent; border-style: none; float: none; line-height: normal; font-size: 1px; vertical-align: baseline; display: inline-block; width: 90px; height: 20px; background-position: initial initial; background-repeat: initial initial;"><iframe frameborder="0" hspace="0" marginheight="0" marginwidth="0" scrolling="no" style="position: static; top: 0px; width: 90px; margin: 0px; border-style: none; left: 0px; visibility: visible; height: 20px;" tabindex="0" vspace="0" width="100%" id="I4_1396732783479" name="I4_1396732783479" src="./Ludger College - Jouw talent is er thuis_files/fastbutton(4).htm" data-gapiattached="true" title="+1"></iframe></div>
+    </td>
+  </tr>
+</tbody></table>                </div>
+                                <div class="leesmeer">
+                    <a href="http://website.ludgercollege.nl/detail/5/1081/Nieuws/Parlons-Pub" class="wit">
+                        Lees meer
+                    </a>
+                </div>
+                            </div>
+            <hr>
+        </div>
+    <div id="newsfooter">
+    <div class="bekijk_al_het_nieuws"><a href="http://website.ludgercollege.nl/nieuws/5/Nieuws" class="wit">Bekijk al het nieuws</a></div>
+</div>
+        </div>
+        <div id="right">
+<div class="button_paars">
+	<a href="http://website.ludgercollege.nl/pages/nieuws.php#" onclick="MM_openBrWindow(&#39;http://roosters.ludgercollege.nl/default.htm&#39;,&#39;&#39;,&#39;width=800,height=600&#39;)" class="wit">Rooster</a><br>
+</div>
+
+<div class="tabel_right_header2">Mededelingen</div>
+<div class="tabel_right_main">
+<!--<a href="#" onclick="MM_openBrWindow('http://www.ludgercollege.net/roosters/web/dagroosters/webMededelingen.aspx?locatie=hoofdgebouw','','toolbar=yes,location=yes,status=yes,menubar=yes,scrollbars=yes,resizable=yes,width=700,height=400')" class="paars">Hoofdgebouw</a><br />
+<a href="#" onclick="MM_openBrWindow('http://www.ludgercollege.net/roosters/web/dagroosters/webMededelingen.aspx?locatie=willibrordgebouw','','toolbar=yes,location=yes,status=yes,menubar=yes,scrollbars=yes,resizable=yes,width=700,height=400')" class="paars">Willibrordgebouw</a><br />
+-->
+<a href="http://website.ludgercollege.nl/mededelingen/hoofdgebouw/" class="paars">Hoofdgebouw</a><br>
+<a href="http://website.ludgercollege.nl/mededelingen/willibrordgebouw/" class="paars">Willibrordgebouw</a><br>
+</div>
+<div class="tabel_right_spacer"></div>
+<div class="tabel_right_main"><strong><a href="http://website.ludgercollege.nl/pages/nieuws.php#" onclick="MM_openBrWindow(&#39;http://www.ludgercollege.nl/jaarAgenda/bekijkenOuders/jaarAgendaBekijkenOuders.aspx&#39;,&#39;&#39;,&#39;toolbar=yes,location=yes,status=yes,menubar=yes,scrollbars=yes,resizable=yes,width=758,height=400&#39;)" class="paars">Jaaragenda</a></strong></div>
+<!--<div class="tabel_right_spacer"></div>
+<div class="tabel_right_main"><strong><a href="#" onclick="MM_openBrWindow('http://www.covoametingen.nl/invullen/2enqueteInvullenOuderOfLeerling.aspx?b=l','','toolbar=yes,location=yes,status=yes,menubar=yes,scrollbars=yes,resizable=yes,width=758,height=400')" class="paars">Enquêtes</a></strong></div>
+-->
+<div class="tabel_right_spacer"></div>
+<div class="tabel_right_main"><strong><a href="http://website.ludgercollege.nl/vacatures" class="paars">Vacatures (1)</a></strong></div>
+<div class="tabel_right_header2">Contact</div>
+<div class="tabel_right_main2">
+    tel 0314 325248<br>
+    fax 0314 324858<br>
+    <a href="http://website.ludgercollege.nl/contactformulier" class="paars italic">Stuur een e-mail</a>
+</div>
+<div class="tabel_right_spacer"></div>
+<div class="tabel_right_main2">
+    <strong>Hoofdgebouw</strong><br>
+    Vondelstraat 5<br>
+    7002 AN Doetinchem<br>
+    <a href="http://website.ludgercollege.nl/routeplanner/hoofdgebouw/" class="paars italic">Plan route</a>
+</div>
+<div class="tabel_right_spacer"></div>
+<div class="tabel_right_main2">
+    <strong>Willibrordgebouw</strong> <br>
+    (klas 1 en 2):<br>
+    Holterweg 121<br>
+    7001 EK Doetinchem<br>
+    <a href="http://website.ludgercollege.nl/routeplanner/willibrordgebouw/" class="paars italic">Plan route</a>
+</div>
+<div class="tabel_right_spacer"></div>
+<div class="tabel_right_main"><strong><a href="http://website.ludgercollege.nl/sitemap" class="paars">Sitemap</a></strong></div>
+<div class="tabel_right_spacer"></div>
+<div class="tabel_right_main"><strong><a href="http://website.ludgercollege.nl/webmaster" class="paars">Webmaster</a></strong></div>
+<div class="tabel_right_bottom"></div></div>
+    </div>
+	<div style="clear:both;"></div>
+	<div id="footer"><hr>
+© 2014 Ludger College&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Vormgeving: <a href="http://www.buropony.nl/" target="_blank" class="grijs">BUROPONY</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Development: <a href="http://www.hpu.nl/" target="_blank" class="grijs">HPU internet services</a>
+
+<script type="text/javascript">
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-26366356-1']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+</script></div>
+</div>
+
+
+<div id="fancybox-tmp"></div><div id="fancybox-loading"><div></div></div><div id="fancybox-overlay"></div><div id="fancybox-wrap"><div id="fancybox-outer"><div class="fancybox-bg" id="fancybox-bg-n"></div><div class="fancybox-bg" id="fancybox-bg-ne"></div><div class="fancybox-bg" id="fancybox-bg-e"></div><div class="fancybox-bg" id="fancybox-bg-se"></div><div class="fancybox-bg" id="fancybox-bg-s"></div><div class="fancybox-bg" id="fancybox-bg-sw"></div><div class="fancybox-bg" id="fancybox-bg-w"></div><div class="fancybox-bg" id="fancybox-bg-nw"></div><div id="fancybox-content"></div><a id="fancybox-close"></a><div id="fancybox-title"></div><a href="javascript:;" id="fancybox-left"><span class="fancy-ico" id="fancybox-left-ico"></span></a><a href="javascript:;" id="fancybox-right"><span class="fancy-ico" id="fancybox-right-ico"></span></a></div></div><iframe name="oauth2relay222521134" id="oauth2relay222521134" src="./Ludger College - Jouw talent is er thuis_files/postmessageRelay.htm" tabindex="-1" style="width: 1px; height: 1px; position: absolute; top: -100px;"></iframe></body></html>
